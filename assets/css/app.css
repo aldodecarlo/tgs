@@ -8648,7 +8648,7 @@ div[class^='bg-black'] .filter.filter-style-4 ul li.active, div[class*=' bg-blac
   top: 0;
   left: 0;
   opacity: 0;
-  background: rgba(0, 0, 0, 0.6);
+  background: rgba(244, 75, 150, 0.9);
   width: 100%;
   height: 100%;
   color: rgba(255, 255, 255, 0.7);
@@ -8690,10 +8690,10 @@ div[class^='bg-black'] .filter.filter-style-4 ul li.active, div[class*=' bg-blac
 }
 
 .portfolio-item .portfolio-box:hover .portfolio-img img {
-  -webkit-transform: scale(1.03);
-  transform: scale(1.03);
-  -webkit-filter: blur(1.5px);
-  filter: blur(1.5px);
+  -webkit-transform: scale(1);
+  transform: scale(1);
+  -webkit-filter: blur(0px);
+  filter: blur(0px);
 }
 
 .portfolio-item .portfolio-box:hover .portfolio-title {
